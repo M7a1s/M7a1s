@@ -17,6 +17,6 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,scss,js,ts,react&perline=4)](https://github.com/M7a1s)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,scss,js,ts,react,next&perline=4)](https://github.com/M7a1s)
 
 <img src="./assets/snake.svg" />
